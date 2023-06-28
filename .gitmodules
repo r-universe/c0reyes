@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "TextMiningGUI"]
 	path = TextMiningGUI
 	url = https://github.com/c0reyes/textmininggui
-	shallow = true
-	registered = true
